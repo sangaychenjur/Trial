@@ -1,0 +1,24 @@
+.container-fluid img{
+width: 80px;
+}
+
+#content{
+    display: flex;
+    padding: 10px;
+    margin-left: 120px;
+}
+
+
+
+button{
+    align-items: center;
+}
+@media(max-width:600px){
+
+}
+
+#div img{
+    display: flex;
+    padding-top: 30px;
+    width: 50%;
+}
